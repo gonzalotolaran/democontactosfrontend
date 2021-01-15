@@ -1,0 +1,12 @@
+.detail {
+    display: flex;
+    flex-direction: row;
+}
+
+.content {
+    background-color: lightgray;
+    border-color: black;
+    border-width: 0.5px;
+    border-style: solid;
+    margin-bottom: 10px;
+}
